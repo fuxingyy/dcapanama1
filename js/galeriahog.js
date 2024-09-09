@@ -17,7 +17,8 @@ var images = [
   { id: 'hogar11', alt: '11' },
   { id: 'hogar12', alt: '12' },
   { id: 'hogar13', alt: '13' },
-  { id: 'hogar14', alt: '14' }
+  { id: 'hogar14', alt: '14' },
+  { id: 'hogar15', alt: '15' }
   
 ];
 
