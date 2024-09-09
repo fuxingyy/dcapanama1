@@ -25,7 +25,16 @@ var images = [
   { id: 'cisa19', alt: '19' },
   { id: 'cisa20', alt: '20' },
   { id: 'cisa21', alt: '21' },
-  { id: 'cisa22', alt: '22' }
+  { id: 'cisa22', alt: '22' },
+  { id: 'cisa23', alt: '23' },
+  { id: 'cisa24', alt: '24' },
+  { id: 'cisa25', alt: '25' },
+  { id: 'cisa26', alt: '26' },
+  { id: 'cisa27', alt: '27' },
+  { id: 'cisa28', alt: '28' },
+  { id: 'cisa29', alt: '29' },
+  { id: 'cisa30', alt: '30' },
+  { id: 'cisa31', alt: '31' }
   
 ];
 
