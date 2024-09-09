@@ -59,7 +59,8 @@ var images = [
   { id: 'herramienta53', alt: '53' },
   { id: 'herramienta54', alt: '54' },
   { id: 'herramienta55', alt: '55' },
-  { id: 'herramienta56', alt: '56' }
+  { id: 'herramienta56', alt: '56' },
+  { id: 'herramienta56', alt: '57' }
   
 ];
 
