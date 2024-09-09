@@ -32,9 +32,7 @@ var images = [
   { id: 'cisa26', alt: '26' },
   { id: 'cisa27', alt: '27' },
   { id: 'cisa28', alt: '28' },
-  { id: 'cisa29', alt: '29' },
-  { id: 'cisa30', alt: '30' },
-  { id: 'cisa31', alt: '31' }
+  { id: 'cisa29', alt: '29' }
   
 ];
 
