@@ -31,7 +31,8 @@ var images = [
   { id: 'plomeria25', alt: '25' },
   { id: 'plomeria26', alt: '26' },
   { id: 'plomeria27', alt: '27' },
-  { id: 'plomeria28', alt: '28' }
+  { id: 'plomeria28', alt: '28' },
+  { id: 'plomeria29', alt: '29' }
   
 ];
 
