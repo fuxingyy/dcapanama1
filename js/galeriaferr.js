@@ -46,7 +46,10 @@ var images = [
  { id: 'ferreteria40', alt: '40' },
  { id: 'ferreteria41', alt: '41' },
  { id: 'ferreteria42', alt: '42' },
- { id: 'ferreteria43', alt: '43' }
+ { id: 'ferreteria43', alt: '43' },
+ { id: 'ferreteria44', alt: '44' },
+ { id: 'ferreteria45', alt: '45' },
+ { id: 'ferreteria46', alt: '46' }
   
 ];
 
