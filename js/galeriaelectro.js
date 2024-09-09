@@ -4,13 +4,20 @@ var captionText = document.getElementById("caption");
 
 // Add an array to store image details
 var images = [
-  { id: 'cat1', alt: '1' },
-  { id: 'cat2', alt: '2' },
-  { id: 'cat3', alt: '3' },
-  { id: 'cat4', alt: '4' },
-  { id: 'cat5', alt: '5' },
-  { id: 'cat6', alt: '6' },
-  { id: 'cat7', alt: '7' }
+  { id: 'electronicos1', alt: '1' },
+  { id: 'electronicos2', alt: '2' },
+  { id: 'electronicos3', alt: '3' },
+  { id: 'electronicos4', alt: '4' },
+  { id: 'electronicos5', alt: '5' },
+  { id: 'electronicos6', alt: '6' },
+  { id: 'electronicos7', alt: '7' },
+  { id: 'electronicos8', alt: '8' },
+  { id: 'electronicos9', alt: '9' },
+  { id: 'electronicos10', alt: '10' },
+  { id: 'electronicos11', alt: '11' },
+  { id: 'electronicos12', alt: '12' },
+  { id: 'electronicos13', alt: '13' },
+  { id: 'electronicos14', alt: '14' }
   
 ];
 
