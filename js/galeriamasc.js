@@ -14,7 +14,8 @@ var images = [
   { id: 'mascotas8', alt: '8' },
   { id: 'mascotas9', alt: '9' },
   { id: 'mascotas10', alt: '10' },
-  { id: 'mascotas11', alt: '11' }
+  { id: 'mascotas11', alt: '11' },
+  { id: 'mascotas12', alt: '12' }
   
 ];
 
