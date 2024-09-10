@@ -49,7 +49,8 @@ var images = [
   { id: 'bicicleta43', alt: '43' },
   { id: 'bicicleta44', alt: '44' },
   { id: 'bicicleta45', alt: '45' },
-  { id: 'bicicleta46', alt: '46' }
+  { id: 'bicicleta46', alt: '46' },
+  { id: 'bicicleta47', alt: '47' }
   
 ];
 
