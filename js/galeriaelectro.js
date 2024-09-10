@@ -17,7 +17,9 @@ var images = [
   { id: 'electronicos11', alt: '11' },
   { id: 'electronicos12', alt: '12' },
   { id: 'electronicos13', alt: '13' },
-  { id: 'electronicos14', alt: '14' }
+  { id: 'electronicos14', alt: '14' },
+  { id: 'electronicos15', alt: '15' },
+  { id: 'electronicos16', alt: '16' }
   
 ];
 
