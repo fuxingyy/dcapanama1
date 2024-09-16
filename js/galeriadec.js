@@ -5,7 +5,7 @@ var captionText = document.getElementById("caption");
 // Add an array to store image details
 var images = [
   { id: 'decorativos1', alt: '1' },
-  { id: 'decorativos', alt: '2' },
+  { id: 'decorativos2', alt: '2' },
   { id: 'decorativos3', alt: '3' },
   { id: 'decorativos4', alt: '4' },
   { id: 'decorativos5', alt: '5' },
