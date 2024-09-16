@@ -8,7 +8,8 @@ var images = [
   { id: 'jctop2', alt: '2' },
   { id: 'jctop3', alt: '3' },
   { id: 'jctop4', alt: '4' },
-  { id: 'jctop5', alt: '5' }
+  { id: 'jctop5', alt: '5' },
+  { id: 'jctop6', alt: '6' }
   
 ];
 
