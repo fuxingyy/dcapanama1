@@ -18,7 +18,8 @@ var images = [
   { id: 'decorativos12', alt: '12' },
   { id: 'decorativos13', alt: '13' },
   { id: 'decorativos14', alt: '14' },
-  { id: 'decorativos15', alt: '15' }
+  { id: 'decorativos15', alt: '15' },
+  { id: 'decorativos16', alt: '16' }
   
 ];
 
