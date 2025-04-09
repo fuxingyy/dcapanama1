@@ -32,24 +32,7 @@ var images = [
  { id: 'ferreteria26', alt: '26' },
  { id: 'ferreteria27', alt: '27' },
  { id: 'ferreteria28', alt: '28' },
- { id: 'ferreteria29', alt: '29' },
- { id: 'ferreteria30', alt: '30' },
- { id: 'ferreteria31', alt: '31' },
- { id: 'ferreteria32', alt: '32' },
- { id: 'ferreteria33', alt: '33' },
- { id: 'ferreteria34', alt: '34' },
- { id: 'ferreteria35', alt: '35' },
- { id: 'ferreteria36', alt: '36' },
- { id: 'ferreteria37', alt: '37' },
- { id: 'ferreteria38', alt: '38' },
- { id: 'ferreteria39', alt: '39' },
- { id: 'ferreteria40', alt: '40' },
- { id: 'ferreteria41', alt: '41' },
- { id: 'ferreteria42', alt: '42' },
- { id: 'ferreteria43', alt: '43' },
- { id: 'ferreteria44', alt: '44' },
- { id: 'ferreteria45', alt: '45' },
- { id: 'ferreteria46', alt: '46' }
+ { id: 'ferreteria29', alt: '29' }
   
 ];
 
