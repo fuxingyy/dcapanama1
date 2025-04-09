@@ -12,6 +12,7 @@ var images = [
   { id: 'hogar6', alt: '6' },
   { id: 'hogar7', alt: '7' },
   { id: 'hogar8', alt: '8' }
+  
 ];
 
 // Initialize the current slide index
