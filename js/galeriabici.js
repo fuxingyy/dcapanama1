@@ -31,26 +31,7 @@ var images = [
   { id: 'bicicleta25', alt: '25' },
   { id: 'bicicleta26', alt: '26' },
   { id: 'bicicleta27', alt: '27' },
-  { id: 'bicicleta28', alt: '28' },
-  { id: 'bicicleta29', alt: '29' },
-  { id: 'bicicleta30', alt: '30' },
-  { id: 'bicicleta31', alt: '31' },
-  { id: 'bicicleta32', alt: '32' },
-  { id: 'bicicleta33', alt: '33' },
-  { id: 'bicicleta34', alt: '34' },
-  { id: 'bicicleta35', alt: '35' },
-  { id: 'bicicleta36', alt: '36' },
-  { id: 'bicicleta37', alt: '37' },
-  { id: 'bicicleta38', alt: '38' },
-  { id: 'bicicleta39', alt: '39' },
-  { id: 'bicicleta40', alt: '40' },
-  { id: 'bicicleta41', alt: '41' },
-  { id: 'bicicleta42', alt: '42' },
-  { id: 'bicicleta43', alt: '43' },
-  { id: 'bicicleta44', alt: '44' },
-  { id: 'bicicleta45', alt: '45' },
-  { id: 'bicicleta46', alt: '46' },
-  { id: 'bicicleta47', alt: '47' }
+  { id: 'bicicleta28', alt: '28' }
   
 ];
 
