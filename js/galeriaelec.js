@@ -10,10 +10,7 @@ var images = [
   { id: 'electricidad4', alt: '4' },
   { id: 'electricidad5', alt: '5' },
   { id: 'electricidad6', alt: '6' },
-  { id: 'electricidad7', alt: '7' },
-  { id: 'electricidad8', alt: '8' },
-  { id: 'electricidad9', alt: '9' },
-  { id: 'electricidad10', alt: '10' }
+  { id: 'electricidad7', alt: '7' }
   
 ];
 
