@@ -11,15 +11,7 @@ var images = [
   { id: 'hogar5', alt: '5' },
   { id: 'hogar6', alt: '6' },
   { id: 'hogar7', alt: '7' },
-  { id: 'hogar8', alt: '8' },
-  { id: 'hogar9', alt: '9' },
-  { id: 'hogar10', alt: '10' },
-  { id: 'hogar11', alt: '11' },
-  { id: 'hogar12', alt: '12' },
-  { id: 'hogar13', alt: '13' },
-  { id: 'hogar14', alt: '14' },
-  { id: 'hogar15', alt: '15' }
-  
+  { id: 'hogar8', alt: '8' }
 ];
 
 // Initialize the current slide index
