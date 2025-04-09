@@ -24,19 +24,7 @@ var images = [
   { id: 'plomeria18', alt: '18' },
   { id: 'plomeria19', alt: '19' },
   { id: 'plomeria20', alt: '20' },
-  { id: 'plomeria21', alt: '21' },
-  { id: 'plomeria22', alt: '22' },
-  { id: 'plomeria23', alt: '23' },
-  { id: 'plomeria24', alt: '24' },
-  { id: 'plomeria25', alt: '25' },
-  { id: 'plomeria26', alt: '26' },
-  { id: 'plomeria27', alt: '27' },
-  { id: 'plomeria28', alt: '28' },
-  { id: 'plomeria29', alt: '29' },
-  { id: 'plomeria30', alt: '30' },
-  { id: 'plomeria31', alt: '31' },
-  { id: 'plomeria32', alt: '32' },
-  { id: 'plomeria33', alt: '33' }
+  { id: 'plomeria21', alt: '21' }
   
 ];
 
