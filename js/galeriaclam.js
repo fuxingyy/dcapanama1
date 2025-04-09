@@ -6,9 +6,7 @@ var captionText = document.getElementById("caption");
 var images = [
   { id: 'clavosmallas1', alt: '1' },
   { id: 'clavosmallas2', alt: '2' },
-  { id: 'clavosmallas3', alt: '3' },
-  { id: 'clavosmallas4', alt: '4' },
-  { id: 'clavosmallas5', alt: '5' }
+  { id: 'clavosmallas3', alt: '3' }
 
   
 ];
